@@ -30,7 +30,7 @@ This project is a celebration of HAPPY MAKARSANKRANTI, showcasing the essence of
 - Share the project to spread the joy of Makar Sankranti.
 
 ## Screenshots
-![HAPPY MAKARSANKRANTI.png](screenshot_url_placeholder)
+(HAPPY MAKARSANKRANTI.png)
 
 ## Contribution
 Feel free to contribute by:
