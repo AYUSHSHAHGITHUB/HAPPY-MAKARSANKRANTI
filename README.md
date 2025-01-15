@@ -29,8 +29,6 @@ This project is a celebration of HAPPY MAKARSANKRANTI, showcasing the essence of
 - Explore the interactive webpage and enjoy the festive design.
 - Share the project to spread the joy of Makar Sankranti.
 
-## Screenshots
-(HAPPY MAKARSANKRANTI.png)
 
 ## Contribution
 Feel free to contribute by:
