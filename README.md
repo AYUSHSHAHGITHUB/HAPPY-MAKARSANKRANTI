@@ -18,7 +18,7 @@ This project is a celebration of HAPPY MAKARSANKRANTI, showcasing the essence of
 ## Installation
 1. Clone the repository to your local machine:
    
-   git clone [repository_url]
+   git clone (https://github.com/AYUSHSHAHGITHUB/HAPPY-MAKARSANKRANTI.git)
   
 2. Navigate to the project directory:
    
